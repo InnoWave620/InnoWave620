@@ -21,7 +21,7 @@ Feel free to check out my repositories, raise issues, or even contribute to ongo
 
 - **ATS Resume Scanner**: A web app to scan resumes and evaluate them for ATS compatibility.
 - **Various Flutter Projects**: Mobile applications developed using Flutter and Dart for smooth and engaging experiences.
-- **Rachelle Katja Portfolio**: A personal portfolio showcasing my work and projects.
+- **Rachelle Katja Portfolio**: A portfolio website built to showcase the work of Rachelle Katja, a talented artist, model, and gym instructor.
 - **CODSOFT Python Projects**: A collection of Python-based projects focused on automation, data processing, and other practical applications.
 - **My 3D Portfolio**: A visually interactive 3D portfolio to demonstrate my projects and skills in an immersive way.
 
