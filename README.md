@@ -2,14 +2,13 @@
 
 Welcome to the official repository of **Senzo Calvin Shinga**!
 
-This repository showcases various projects I've worked on, including my open-source contributions and personal projects. You will find a mix of tools, experiments, and applications developed using different technologies such as **Flutter**, **Dart**, **web development tools**, and more.
-
+This repository showcases various projects I've worked on, including my open-source contributions and personal projects.
 ## About Me
 
 Hi there! I'm **Senzo Calvin Shinga**, a software developer with a passion for building useful, scalable, and efficient applications. My focus is on creating visually appealing user interfaces and optimizing user experiences while working with cutting-edge technologies.
 
-- 🎯 **Specialize in mobile development with Flutter and Dart**
-- 🌐 **Knowledge in in web development using various technologies** (HTML, CSS, JavaScript, React, Node.js, etc.)
+- 🎯 **Specialize in Web Development and Cybsersecurity**
+- 🌐 **web development technologies** (HTML, CSS, TypeScript, React, Node.js, etc.)
 - 🛠️ **Knowlwdge in backend development with APIs, databases, and server-side logic**
 - 🔄 **Passionate about working with new technologies and solving complex problems**
 - 💻 **Comfortable with version control systems like Git and GitHub for collaboration**
